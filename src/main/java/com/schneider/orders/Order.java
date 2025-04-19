@@ -23,4 +23,3 @@ public class Order {
         return quantity * unitPrice;
     }
 }
-

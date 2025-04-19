@@ -92,4 +92,3 @@ class OrderServiceTest {
         return new Order(1, "Laptop", 2, 1500.0);
     }
 }
-
